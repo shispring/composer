@@ -4,7 +4,6 @@
     "type": "project",
     "require": {
         "guzzlehttp/guzzle": "6.5.2",
-        "PHPOffice/PhpSpreadsheet": "1.10.1",
         "guzzlehttp/psr7": "1.6.1"
     },
     "license": "MIT",

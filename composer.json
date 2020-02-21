@@ -3,9 +3,9 @@
     "description": "composer demo",
     "type": "project",
     "require": {
-        "guzzlehttp/guzzle": "*",
-        "phpoffice/phpspreadsheet": "*",
-        "guzzlehttp/psr7": "*"
+        "guzzlehttp/guzzle": "6.5.2",
+        "phpoffice/phpspreadsheet": "1.10.1",
+        "guzzlehttp/psr7": "1.6.1"
     },
     "license": "MIT",
     "authors": [

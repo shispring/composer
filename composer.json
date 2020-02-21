@@ -1,14 +1,18 @@
 {
-    "name": "shijianpeng/composer",
+    "name": "shispring/composer",
     "description": "composer demo",
     "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "*",
+        "phpoffice/phpspreadsheet": "*",
+        "guzzlehttp/psr7": "*"
+    },
     "license": "MIT",
     "authors": [
         {
-            "name": "shijianpeng",
-            "email": "shijianpeng@zhongwenweilai.com"
+            "name": "jpshi",
+            "email": "shijianpeng12@163.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }

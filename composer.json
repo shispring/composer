@@ -1,0 +1,14 @@
+{
+    "name": "shijianpeng/composer",
+    "description": "composer demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shijianpeng",
+            "email": "shijianpeng@zhongwenweilai.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
